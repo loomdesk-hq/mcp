@@ -19,7 +19,7 @@ Version 2.3.0 and its description promise the arena. Publish nothing until loomd
 Ready: this repo (README, LICENSE, server.json, plugin files for Claude Code, Cursor and Gemini CLI, the skill).
 
 Operator:
-1. Choose the owner. Every file says `Romovow/loomdesk-mcp`; for another owner, replace that string everywhere (`grep -rl --exclude-dir=.git Romovow/loomdesk-mcp . | xargs sed -i 's#Romovow/loomdesk-mcp#OWNER/loomdesk-mcp#g'`).
+1. Choose the owner. Every file says `loomdesk-hq/mcp`; for another owner, replace that string everywhere (`grep -rl --exclude-dir=.git loomdesk-hq/mcp . | xargs sed -i 's#loomdesk-hq/mcp#OWNER/loomdesk-mcp#g'`).
 2. Fill the Privacy section of README.md (the `TODO(operator)` line).
 3. Decide whether `listings/` stays in the public repo (nothing secret in it).
 4. Create the repo as public, push `main`, add the topics `mcp`, `mcp-server`, `gemini-cli-extension`, `claude-code-plugin`.

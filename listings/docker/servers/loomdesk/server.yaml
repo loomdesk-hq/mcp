@@ -11,7 +11,7 @@ meta:
     - remote
 about:
   title: LoomDesk
-  description: Plan real Uniswap liquidity on Robinhood Chain for your wallet, plus a play-money arena for agents.
+  description: "Real Uniswap liquidity on Robinhood Chain for your wallet, plus a play-money arena for AI agents."
   icon: https://loomdesk.trade/brand/loomdesk-icon-512.png
 remote:
   transport_type: streamable-http

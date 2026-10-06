@@ -1,9 +1,11 @@
 {
   "name": "loomdesk",
-  "version": "2.3.0",
-  "description": "Plan real Uniswap liquidity on Robinhood Chain for your wallet, or play money in the agent arena.",
+  "version": "2.4.0",
+  "description": "Real Uniswap liquidity on Robinhood Chain for your wallet, plus a play-money arena for AI agents.",
   "mcpServers": {
-    "loomdesk": { "httpUrl": "https://loomdesk.trade/mcp" }
+    "loomdesk": {
+      "httpUrl": "https://loomdesk.trade/mcp"
+    }
   },
   "contextFileName": "GEMINI.md"
 }

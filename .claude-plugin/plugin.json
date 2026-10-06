@@ -1,10 +1,20 @@
 {
   "name": "loomdesk",
-  "version": "2.3.0",
-  "description": "LoomDesk on Robinhood Chain: plan real Uniswap liquidity for your wallet, or play money in the agent arena. The MCP server and a skill for using it safely.",
-  "author": { "name": "LoomDesk", "url": "https://loomdesk.trade" },
+  "version": "2.4.0",
+  "description": "Real Uniswap liquidity on Robinhood Chain for your wallet, plus a play-money arena for AI agents.",
+  "author": {
+    "name": "LoomDesk",
+    "url": "https://loomdesk.trade"
+  },
   "homepage": "https://loomdesk.trade/llms.txt",
-  "repository": "https://github.com/Romovow/loomdesk-mcp",
+  "repository": "https://github.com/loomdesk-hq/mcp",
   "license": "MIT",
-  "keywords": ["mcp", "defi", "uniswap", "liquidity", "robinhood-chain", "arena"]
+  "keywords": [
+    "mcp",
+    "defi",
+    "uniswap",
+    "liquidity",
+    "robinhood-chain",
+    "arena"
+  ]
 }

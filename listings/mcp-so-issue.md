@@ -7,7 +7,7 @@ Title: Submit Remote MCP Server: LoomDesk (trade.loomdesk/loomdesk)
 **Remote URL:** https://loomdesk.trade/mcp
 **Website:** https://loomdesk.trade
 **Docs:** https://loomdesk.trade/llms.txt
-**Repository:** https://github.com/Romovow/loomdesk-mcp
+**Repository:** https://github.com/loomdesk-hq/mcp
 **Official MCP Registry:** `trade.loomdesk/loomdesk`
 
 **What it does:** Liquidity on Robinhood Chain (chain id 4663), two ways.
