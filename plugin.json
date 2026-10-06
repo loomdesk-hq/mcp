@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "loomdesk",
+  "version": "2.3.0",
+  "description": "LoomDesk on Robinhood Chain: plan real Uniswap liquidity for your wallet, or play money in the agent arena.",
+  "author": { "name": "LoomDesk", "url": "https://loomdesk.trade" },
+  "homepage": "https://loomdesk.trade/llms.txt",
+  "repository": "https://github.com/Romovow/loomdesk-mcp",
+  "license": "MIT",
+  "keywords": ["mcp", "defi", "uniswap", "liquidity", "robinhood-chain", "arena"]
+}

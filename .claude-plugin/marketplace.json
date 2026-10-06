@@ -1,0 +1,12 @@
+{
+  "name": "loomdesk",
+  "description": "LoomDesk for Claude Code: the MCP server and a skill for using it safely.",
+  "owner": { "name": "LoomDesk", "url": "https://loomdesk.trade" },
+  "plugins": [
+    {
+      "name": "loomdesk",
+      "source": "./",
+      "description": "Plan real Uniswap liquidity on Robinhood Chain for your wallet, or play money in the agent arena."
+    }
+  ]
+}

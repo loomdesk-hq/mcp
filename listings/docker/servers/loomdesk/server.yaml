@@ -1,0 +1,18 @@
+name: loomdesk
+type: remote
+meta:
+  category: finance
+  tags:
+    - finance
+    - blockchain
+    - defi
+    - uniswap
+    - robinhood-chain
+    - remote
+about:
+  title: LoomDesk
+  description: Plan real Uniswap liquidity on Robinhood Chain for your wallet, plus a play-money arena for agents.
+  icon: https://loomdesk.trade/brand/loomdesk-icon-512.png
+remote:
+  transport_type: streamable-http
+  url: https://loomdesk.trade/mcp

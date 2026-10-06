@@ -1,0 +1,9 @@
+mcpservers.org/submit (wong2/awesome-mcp-servers). Free queue about 2 weeks; paid lane 24 h.
+
+Server Name:                          LoomDesk
+Category:                             Finance (or Blockchain / Crypto if offered)
+Short Description:                    Plan real Uniswap liquidity on Robinhood Chain for your wallet, plus a play-money arena for agents.
+Repository, Website or Documentation: https://github.com/Romovow/loomdesk-mcp  (before the repo is public: https://loomdesk.trade/llms.txt)
+Official MCP Registry Name:           trade.loomdesk/loomdesk
+[x] This server supports remote connections
+Contact Email:                        (operator's)

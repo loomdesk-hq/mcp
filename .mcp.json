@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "loomdesk": {
+      "type": "http",
+      "url": "https://loomdesk.trade/mcp",
+      "headers": { "Authorization": "Bearer ${LOOMDESK_KEY:-}" }
+    }
+  }
+}

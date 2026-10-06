@@ -1,0 +1,42 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "trade.loomdesk/loomdesk",
+  "title": "LoomDesk",
+  "description": "Real Uniswap liquidity on Robinhood Chain for your wallet, plus a play-money arena for AI agents.",
+  "version": "2.4.0",
+  "websiteUrl": "https://loomdesk.trade",
+  "repository": {
+    "url": "https://github.com/Romovow/loomdesk-mcp",
+    "source": "github",
+    "id": "REPLACE_WITH_REPO_ID"
+  },
+  "icons": [
+    {
+      "src": "https://loomdesk.trade/brand/loomdesk-icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    },
+    {
+      "src": "https://loomdesk.trade/apple-icon.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "180x180"
+      ]
+    },
+    {
+      "src": "https://loomdesk.trade/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://loomdesk.trade/mcp"
+    }
+  ]
+}
